@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dahham Alsoud"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+
+format:
+  html:
+    page-layout: full
+    theme: United
+    css: styles.css
+    toc: true
+    grid: 
+      margin-width: 0px
+      body-width: 900px
+
+editor: visual
+

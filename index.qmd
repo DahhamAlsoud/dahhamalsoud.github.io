@@ -1,0 +1,21 @@
+---
+title: "Dahham Alsoud"
+image: ./images-figures/headshot-effel.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - icon: github
+      href: https://github.com/dahhamalsoud
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=L_Vs-00AAAAJ&hl=en 
+    - icon: linkedin
+      href: https://www.linkedin.com/in/dahham-alsoud-859545b3/ 
+    - icon: twitter
+      href: https://twitter.com/AlsoudDahham
+    - icon: envelope
+      href: mailto:dahhamalsoud@gmail.com
+---
+
+## Hi there!
