@@ -5,36 +5,36 @@
 -   Real-world effectiveness and safety of risankizumab in patients with moderate-to-severe multi-refractory Crohn's disease: a Belgian multi-centric cohort study.\
     [*Analysis notebook*](./analysis-notebooks/report-realworld-risankizumab-belgium.html){style="color:DarkViolet"}
 -   Real-world endoscopic and histological outcomes are correlated with ustekinumab exposure in patients with ulcerative colitis.\
-    [*Journal of Crohn's and Colitis*]{style="color:Chocolate"} [*PMID: 3533353*](https://pubmed.ncbi.nlm.nih.gov/35533353/){style="color:DeepPink"}
+    [*Journal of Crohn's and Colitis*]{style="color:Chocolate"} [*PMID: 3533353*](https://pubmed.ncbi.nlm.nih.gov/35533353/){style="color:SteelBlue"}
 -   The serum-based Endoscopic Healing Index can monitor therapeutic response in Crohn's disease.\
-    [*Journal of Crohn's and Colitis*]{style="color:Chocolate"} [*PMID: 37178692*](https://pubmed.ncbi.nlm.nih.gov/37178692/){style="color:DeepPink"}
+    [*Journal of Crohn's and Colitis*]{style="color:Chocolate"} [*PMID: 37178692*](https://pubmed.ncbi.nlm.nih.gov/37178692/){style="color:SteelBlue"}
 -   Breaking the therapeutic ceiling in drug development in ulcerative colitis.\
-    [*The Lancet Gastroenterology and Hepatology*]{style="color:Chocolate"} [*PMID: 34019798*](https://pubmed.ncbi.nlm.nih.gov/34019798/){style="color:DeepPink"}
+    [*The Lancet Gastroenterology and Hepatology*]{style="color:Chocolate"} [*PMID: 34019798*](https://pubmed.ncbi.nlm.nih.gov/34019798/){style="color:SteelBlue"}
 -   Biomarker discovery for personalized therapy selection in inflammatory bowel diseases: challenges and promises.\
-    [*Current Research in Pharmacology and Drug Discovery*]{style="color:Chocolate"} [*PMID: 35146421*](https://pubmed.ncbi.nlm.nih.gov/35146421/){style="color:DeepPink"}
+    [*Current Research in Pharmacology and Drug Discovery*]{style="color:Chocolate"} [*PMID: 35146421*](https://pubmed.ncbi.nlm.nih.gov/35146421/){style="color:SteelBlue"}
 -   Monitoring vedolizumab and ustekinumab drug levels in patients with inflammatory bowel disease: hype or hope?\
-    [*Current Opinion in Pharmacology*]{style="color:Chocolate"} [*PMID: 33039940*](https://pubmed.ncbi.nlm.nih.gov/33039940/){style="color:DeepPink"}
+    [*Current Opinion in Pharmacology*]{style="color:Chocolate"} [*PMID: 33039940*](https://pubmed.ncbi.nlm.nih.gov/33039940/){style="color:SteelBlue"}
 -   Comparative effectiveness research to position therapies in ulcerative colitis: how fair are the comparisons?\
-    [*Clinical Gastroenterology and Hepatology*]{style="color:Chocolate"} [*PMID: 35850410*](https://pubmed.ncbi.nlm.nih.gov/35850410/){style="color:DeepPink"}
+    [*Clinical Gastroenterology and Hepatology*]{style="color:Chocolate"} [*PMID: 35850410*](https://pubmed.ncbi.nlm.nih.gov/35850410/){style="color:SteelBlue"}
 -   Immunogenicity is not the root cause for loss of response to anti-TNF agents in patients with IBD in TDM era.\
-    [*Alimentary Pharmacology & Therapeutics*]{style="color:Chocolate"} [*PMID: 35315101*](https://pubmed.ncbi.nlm.nih.gov/35315101/){style="color:DeepPink"}
+    [*Alimentary Pharmacology & Therapeutics*]{style="color:Chocolate"} [*PMID: 35315101*](https://pubmed.ncbi.nlm.nih.gov/35315101/){style="color:SteelBlue"}
 
 ## As a co-author
 
 -   Tailoring multi-omics to inflammatory bowel diseases: all for one and one for all.\
-    [*Journal of Crohn's and Colitis*]{style="color:Chocolate"} [*PMID: 35150242*](https://pubmed.ncbi.nlm.nih.gov/35150242/){style="color:DeepPink"}
+    [*Journal of Crohn's and Colitis*]{style="color:Chocolate"} [*PMID: 35150242*](https://pubmed.ncbi.nlm.nih.gov/35150242/){style="color:SteelBlue"}
 
 -   Adalimumab versus ustekinumab as first-line biological in moderate-to-severe Crohn's disease: real-life cohort from a tertiary referral center.\
-    [*European Journal of Gastroenterology and Hepatology*]{style="color:Chocolate"} [*PMID: 36062494*](https://pubmed.ncbi.nlm.nih.gov/36062494/){style="color:DeepPink"}
-    
+    [*European Journal of Gastroenterology and Hepatology*]{style="color:Chocolate"} [*PMID: 36062494*](https://pubmed.ncbi.nlm.nih.gov/36062494/){style="color:SteelBlue"}
+
 -   Evaluation of serum cytokines and acute phase proteins as possible pharmacodynamic biomarkers to monitor endoscopic remission during ustekinumab therapy in patients with Crohn's disease.\
     [*Therapeutic Advances in Gastroenterology*]{style="color:Chocolate"}
 
 -   Translating results from VARSITY to real world: adalimumab vs vedolizumab as first-line biological in moderate to severe IBD.\
-    [*Inflammatory Bowel Diseases*]{style="color:Chocolate"} [*PMID: 34751766*](https://pubmed.ncbi.nlm.nih.gov/34751766/){style="color:DeepPink"}
+    [*Inflammatory Bowel Diseases*]{style="color:Chocolate"} [*PMID: 34751766*](https://pubmed.ncbi.nlm.nih.gov/34751766/){style="color:SteelBlue"}
 
 -   The effect of aging on infliximab exposure and response in patients with inflammatory bowel diseases.\
-    [*British Journal of Clinical Pharmacology*]{style="color:Chocolate"} [*PMID: 33604964*](https://pubmed.ncbi.nlm.nih.gov/33604964/){style="color:DeepPink"}
+    [*British Journal of Clinical Pharmacology*]{style="color:Chocolate"} [*PMID: 33604964*](https://pubmed.ncbi.nlm.nih.gov/33604964/){style="color:SteelBlue"}
 
 -   Longitudinal monitoring of STAT3 phosphorylation and histologic outcome of tofacitinib therapy in patients with ulcerative colitis.\
-    [*Alimentary Pharmacology & Therapeutics*]{style="color:Chocolate"} [*PMID: 35484689*](https://pubmed.ncbi.nlm.nih.gov/35484689/){style="color:DeepPink"}
+    [*Alimentary Pharmacology & Therapeutics*]{style="color:Chocolate"} [*PMID: 35484689*](https://pubmed.ncbi.nlm.nih.gov/35484689/){style="color:SteelBlue"}
