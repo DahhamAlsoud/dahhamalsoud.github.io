@@ -2,8 +2,11 @@
 
 ## As a first author
 
+-   Best practice for therapeutic drug monitoring of infliximab. Position statement from the International Association of Therapeutic Drug Monitoring and Clinical Toxicology.\
 -   Real-world effectiveness and safety of risankizumab in patients with moderate-to-severe multi-refractory Crohn's disease: a Belgian multi-centric cohort study.\
     [*Analysis notebook*](./analysis-notebooks/report-realworld-risankizumab-belgium.html){style="color:DarkViolet"}
+-   Utility of the serum-based Endoscopic Healing Index in monitoring therapeutic response in ulcerative colitis.\
+    [*The American Journal of Gastroenterology*]{style="color:Chocolate"} [*PMID: 37753938*](https://pubmed.ncbi.nlm.nih.gov/37753938/){style="color:SteelBlue"}
 -   Real-world endoscopic and histological outcomes are correlated with ustekinumab exposure in patients with ulcerative colitis.\
     [*Journal of Crohn's and Colitis*]{style="color:Chocolate"} [*PMID: 3533353*](https://pubmed.ncbi.nlm.nih.gov/35533353/){style="color:SteelBlue"}
 -   The serum-based Endoscopic Healing Index can monitor therapeutic response in Crohn's disease.\
