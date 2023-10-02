@@ -2,7 +2,7 @@
 
 ## As a first author
 
--   Best practice for therapeutic drug monitoring of infliximab. Position statement from the International Association of Therapeutic Drug Monitoring and Clinical Toxicology.\
+-   Best practice for therapeutic drug monitoring of infliximab: Position statement from the International Association of Therapeutic Drug Monitoring and Clinical Toxicology.\
 -   Real-world effectiveness and safety of risankizumab in patients with moderate-to-severe multi-refractory Crohn's disease: a Belgian multi-centric cohort study.\
     [*Analysis notebook*](./analysis-notebooks/report-realworld-risankizumab-belgium.html){style="color:DarkViolet"}
 -   Utility of the serum-based Endoscopic Healing Index in monitoring therapeutic response in ulcerative colitis.\
