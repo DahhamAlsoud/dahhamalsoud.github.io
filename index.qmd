@@ -16,6 +16,9 @@ about:
       href: https://twitter.com/AlsoudDahham
     - icon: envelope
       href: mailto:dahhamalsoud@gmail.com
+format:
+  html:
+    toc: false
 ---
 
 ## Hi there!

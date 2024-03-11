@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: publications.qmd
-        text: Publications
+      - href: cv-dahhamalsoud.qmd
 
 format:
   html:
@@ -18,7 +18,7 @@ format:
     css: styles.css
     toc: true
     grid: 
-      margin-width: 0px
+      margin-width: 200px
       body-width: 900px
 
 editor: visual

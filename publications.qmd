@@ -1,5 +1,9 @@
-# Publications
-
+---
+title: "Publications"
+format:
+  html:
+    toc: false
+---
 ## As a first author
 
 -   Breaking the therapeutic ceiling in drug development in ulcerative colitis.\

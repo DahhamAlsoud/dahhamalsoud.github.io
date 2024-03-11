@@ -1,0 +1,54 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+    grid: 
+      margin-width: 400px
+---
+## Education
+
+**Doctor of Philosophy -- Biomedical Sciences** <br> *Katholieke Universiteit Leuven* [*Sep 2019 --- Present*]{.cvdate}
+
+-   **Thesis title**: Understanding Therapeutic Outcomes in Inflammatory Bowel Diseases: Insights from Clinicomics, Proteomics, and Transcriptomics.
+-   Pomotor: [prof.dr.Séverine Vermeire](https://www.uzleuven.be/en/physicians-and-specialists/severine-vermeire) ; Co-promotor: [prof.dr.Bram Verstockt](https://www.uzleuven.be/nl/artsen-en-specialisten/bram-verstockt)
+-   Expected submission date: Sep 2024
+
+**Master of Science -- Health Care Management and Policy** <br> *Katholieke Universiteit Leuven* [*Sep 2020 --- Present*]{.cvdate}
+
+-   Major in "Health Care Management"
+-   Thesis promotor: [prof.dr.Luk Bruyneel](https://scholar.google.be/citations?user=DyPnL94AAAAJ&hl=nl)
+-   Expected graduation date: Sep 2024
+
+**Doctor of Medicine** <br> *Damascus University* [*Sep 2008 --- Nov 2015*]{.cvdate}
+
+## Work Experience/Postgraduate Training
+
+**PhD researcher** [*Sep 2019 --- Present*]{.cvdate}
+
+Main objectives:
+
+-   Evaluate the discriminative capacity, calibration, and clinical utility of existing clinical decision support tools for predicting response to biologics in patients with ***inflammatory bowel disease***.\
+-   Identify proteomic signatures able to predict endoscopic outcome to biologic therapy in ***Crohn's disease***.\
+-   Gain insights into the mechanisms of action of current therapies for ***ulcerative colitis*** using whole blood transcriptomics, and identify transcriptomic signatures able to predict their endoscopic outcome.\
+
+**Hospitalist Physician** [*Sep 2018 --- Sep 2019*]{.cvdate} <br> Diabetes clinic - University Hospitals Brussels
+
+**Resident -- Clinical Pathology** [*Sep 2017 --- Sep 2018*]{.cvdate} <br> University Hospitals Brussels
+
+## Scholarly Contributions
+
+-   [Publications](publications.qmd)
+-   [Peer Review activities](https://www.webofscience.com/wos/author/record/AAV-9971-2020)
+
+## Software
+
+-   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>631 downloads on 2024-03-11</small></mark>
+
+## Computational Biology Skills
+
+-   **Scripting**: R, Python, and Unix for data manipulation, visualization, and predictive/bioinformatic analyses.
+-   **Bioinformatic algorithms and packages**: bulk and single-cell transcriptomics, spatial transcriptomics, 16S rRNA and shotgun metagenomics, metabolomics and multi-omics integration.
+-   **Quarto Publishing**: articles, presentations, dashboards, and websites.
+-   **Package Development**: R, Python, and Bioconductor.
+-   **Web Applications Development**: using Shiny, with basic knowledge of HTML, CSS, and JavaScript.
