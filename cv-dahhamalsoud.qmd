@@ -6,6 +6,7 @@ format:
     grid: 
       margin-width: 400px
 ---
+
 ## Education
 
 **Doctor of Philosophy -- Biomedical Sciences** <br> *Katholieke Universiteit Leuven* [*Sep 2019 --- Present*]{.cvdate}
