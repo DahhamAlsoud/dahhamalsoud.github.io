@@ -1,10 +1,10 @@
 ---
 title: "Dahham Alsoud"
-image: ./images-figures/headshot-effel.jpg
+image: ./images-figures/blossom-jette-cropped.jpg
 about: 
   template: trestles
   image-shape: round
-  image-width: 23em
+  image-width: 30em
   links:
     - icon: github
       href: https://github.com/dahhamalsoud

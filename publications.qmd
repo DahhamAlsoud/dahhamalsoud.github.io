@@ -32,7 +32,7 @@ format:
 -   Beyond discrimination: a call for comprehensive assessment of clinical prediction models in inflammatory bowel disease.\
     [*Inflammatory Bowel Diseases*]{style="color:Chocolate"} [*PMID: 38460148*](https://pubmed.ncbi.nlm.nih.gov/38460148/){style="color:SteelBlue"}
 -   Ustekinumab and vedolizumab exposure is unaffected by pharmacogenetic determinants of anti-TNFs pharmacokinetics.\
-    [*Inflammatory Bowel Diseases*]{style="color:Chocolate"} [*accepted*]{style="color:yellowgreen"}
+    [*Inflammatory Bowel Diseases*]{style="color:Chocolate"} [*PMID: 38581670*](https://pubmed.ncbi.nlm.nih.gov/38581670/){style="color:SteelBlue"}
 
 ## As a co-author
 
