@@ -4,7 +4,7 @@ image: ./images-figures/blossom-jette-cropped.jpg
 about: 
   template: trestles
   image-shape: round
-  image-width: 30em
+  image-width: 26em
   links:
     - icon: github
       href: https://github.com/dahhamalsoud
