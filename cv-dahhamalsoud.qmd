@@ -9,19 +9,19 @@ format:
 
 ## Education
 
-**Doctor of Philosophy -- Biomedical Sciences** <br> *Katholieke Universiteit Leuven* [*Sep 2019 --- Present*]{.cvdate}
+**Doctor of Philosophy -- Biomedical Sciences** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2019 --- Present*]{.cvdate}
 
 -   **Thesis title**: Understanding Therapeutic Outcomes in Inflammatory Bowel Diseases: Insights from Clinicomics, Proteomics, and Transcriptomics.
 -   Pomotor: [prof.dr.Séverine Vermeire](https://www.uzleuven.be/en/physicians-and-specialists/severine-vermeire) ; Co-promotor: [prof.dr.Bram Verstockt](https://www.uzleuven.be/nl/artsen-en-specialisten/bram-verstockt)
--   Expected submission date: Sep 2024
+-   Expected submission date: **Oct 2024**
 
-**Master of Science -- Health Care Management and Policy** <br> *Katholieke Universiteit Leuven* [*Sep 2020 --- Present*]{.cvdate}
+**Master of Science -- Health Care Management and Policy** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2020 --- Present*]{.cvdate}
 
 -   Major in "Health Care Management"
 -   Thesis promotor: [prof.dr.Luk Bruyneel](https://scholar.google.be/citations?user=DyPnL94AAAAJ&hl=nl)
--   Expected graduation date: Sep 2024
+-   Graduation date: **Sep 2024**
 
-**Doctor of Medicine** <br> *Damascus University* [*Sep 2008 --- Nov 2015*]{.cvdate}
+**Doctor of Medicine** <br> *Damascus University*, Damascus, Syria [*Sep 2008 --- Nov 2015*]{.cvdate}
 
 ## Work Experience/Postgraduate Training
 
@@ -44,7 +44,7 @@ Main objectives:
 
 ## Software
 
--   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>631 downloads on 2024-03-11</small></mark>
+-   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>903 downloads on May 1, 2024</small></mark>
 
 ## Computational Biology Skills
 

@@ -18,7 +18,7 @@ format:
 -   Real-world effectiveness and safety of risankizumab in patients with moderate-to-severe multi-refractory Crohn's disease: a Belgian multi-centric cohort study.\
     [*Inflammatory Bowel Diseases*]{style="color:Chocolate"} [*PMID: 38215029*](https://pubmed.ncbi.nlm.nih.gov/38215029/){style="color:SteelBlue"} [*Analysis notebook*](./analysis-notebooks/report-realworld-risankizumab-belgium.html){style="color:DarkViolet"}
 -   Best practice for therapeutic drug monitoring of infliximab: position statement from the International Association of Therapeutic Drug Monitoring and Clinical Toxicology.\
-    [*Therapeutic Drug Monitoring*]{style="color:Chocolate"} [*accepted*]{style="color:yellowgreen"}
+    [*Therapeutic Drug Monitoring*]{style="color:Chocolate"} [*PMID: 38648666*](https://pubmed.ncbi.nlm.nih.gov/38648666/){style="color:SteelBlue"}
 -   Monitoring vedolizumab and ustekinumab drug levels in patients with inflammatory bowel disease: hype or hope?\
     [*Current Opinion in Pharmacology*]{style="color:Chocolate"} [*PMID: 33039940*](https://pubmed.ncbi.nlm.nih.gov/33039940/){style="color:SteelBlue"}
 -   Biomarker discovery for personalized therapy selection in inflammatory bowel diseases: challenges and promises.\
