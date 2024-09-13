@@ -9,23 +9,24 @@ format:
 
 ## Education
 
-**Doctor of Philosophy -- Biomedical Sciences** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2019 --- Present*]{.cvdate}
+**Master of Science -- Statistics and Data Science** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2024 -- Present*]{.cvdate}
+
+**Doctor of Philosophy -- Biomedical Sciences** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2019 -- March 2025*]{.cvdate}
 
 -   **Thesis title**: Understanding Therapeutic Outcomes in Inflammatory Bowel Diseases: Insights from Clinicomics, Proteomics, and Transcriptomics.
 -   Pomotor: [prof.dr.Séverine Vermeire](https://www.uzleuven.be/en/physicians-and-specialists/severine-vermeire) ; Co-promotor: [prof.dr.Bram Verstockt](https://www.uzleuven.be/nl/artsen-en-specialisten/bram-verstockt)
--   Expected submission date: **Oct 2024**
+-   Defense date: **March 2025**
 
-**Master of Science -- Health Care Management and Policy** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2020 --- Present*]{.cvdate}
+**Master of Science -- Health Care Management and Policy** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2020 -- Sep 2024*]{.cvdate}
 
 -   Major in "Health Care Management"
 -   Thesis promotor: [prof.dr.Luk Bruyneel](https://scholar.google.be/citations?user=DyPnL94AAAAJ&hl=nl)
--   Graduation date: **Sep 2024**
 
-**Doctor of Medicine** <br> *Damascus University*, Damascus, Syria [*Sep 2008 --- Nov 2015*]{.cvdate}
+**Doctor of Medicine** <br> *Damascus University*, Damascus, Syria [*Sep 2008 -- Nov 2015*]{.cvdate}
 
 ## Work Experience/Postgraduate Training
 
-**PhD researcher** [*Sep 2019 --- Present*]{.cvdate}
+**PhD researcher** [*Sep 2019 -- Present*]{.cvdate}
 
 Main objectives:
 
@@ -33,9 +34,9 @@ Main objectives:
 -   Identify proteomic signatures able to predict endoscopic outcome to biologic therapy in ***Crohn's disease***.\
 -   Gain insights into the mechanisms of action of current therapies for ***ulcerative colitis*** using whole blood transcriptomics, and identify transcriptomic signatures able to predict their endoscopic outcome.\
 
-**Hospitalist Physician** [*Sep 2018 --- Aug 2019*]{.cvdate} <br> Diabetes clinic - University Hospitals Brussels
+**Hospitalist Physician** [*Sep 2018 -- Aug 2019*]{.cvdate} <br> Diabetes clinic - University Hospitals Brussels
 
-**Resident -- Clinical Pathology** [*Sep 2017 --- Aug 2018*]{.cvdate} <br> University Hospitals Brussels
+**Resident -- Clinical Pathology** [*Sep 2017 -- Aug 2018*]{.cvdate} <br> University Hospitals Brussels
 
 ## Scholarly Contributions
 
@@ -44,12 +45,12 @@ Main objectives:
 
 ## Software
 
--   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>903 downloads on May 1, 2024</small></mark>
+-   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>1593 downloads on September 13, 2024</small></mark>
 
 ## Computational Biology Skills
 
 -   **Scripting**: R, Python, and Unix for data manipulation, visualization, and predictive/bioinformatic analyses.
--   **Bioinformatic algorithms and packages**: bulk and single-cell transcriptomics, spatial transcriptomics, 16S rRNA and shotgun metagenomics, metabolomics and multi-omics integration.
+-   **Bioinformatic algorithms and packages**: proteomics, bulk and single-cell transcriptomics, spatial transcriptomics, metagenomics, metabolomics and multi-omics integration.
 -   **Quarto Publishing**: articles, presentations, dashboards, and websites.
 -   **Package Development**: R, Python, and Bioconductor.
 -   **Web Applications Development**: using Shiny, with basic knowledge of HTML, CSS, and JavaScript.
