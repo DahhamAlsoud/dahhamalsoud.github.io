@@ -10,20 +10,20 @@ encoding: UTF-8
 
 ## Education
 
-**Master of Science -- Statistics and Data Science** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2024 -- Present*]{.cvdate}
+**Master of Science -- Statistics and Data Science** [*Sep 2024 -- Present*]{.cvdate} <br> *Katholieke Universiteit Leuven*, Leuven, Belgium
 
-**Doctor of Philosophy -- Biomedical Sciences** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2019 -- March 2025*]{.cvdate}
+**Doctor of Philosophy -- Biomedical Sciences** [*Sep 2019 -- March 2025*]{.cvdate} <br> *Katholieke Universiteit Leuven*, Leuven, Belgium
 
 -   **Thesis title**: Understanding Therapeutic Outcomes in Inflammatory Bowel Diseases: Insights from Clinicomics, Proteomics, and Transcriptomics.
 -   Pomotor: [Prof.Dr. Severine Vermeire](https://www.uzleuven.be/en/physicians-and-specialists/severine-vermeire) ; Co-promotor: [Prof.Dr. Bram Verstockt](https://www.uzleuven.be/nl/artsen-en-specialisten/bram-verstockt)
 -   Defense date: **March 2025**
 
-**Master of Science -- Health Care Management and Policy** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2020 -- Sep 2024*]{.cvdate}
+**Master of Science -- Health Care Management and Policy** [*Sep 2020 -- Sep 2024*]{.cvdate} <br> *Katholieke Universiteit Leuven*, Leuven, Belgium
 
 -   Major in "Health Care Management"
 -   Thesis promotor: [Prof.Dr. Luk Bruyneel](https://scholar.google.be/citations?user=DyPnL94AAAAJ&hl=nl)
 
-**Doctor of Medicine** <br> *Damascus University*, Damascus, Syria [*Sep 2008 -- Nov 2015*]{.cvdate}
+**Doctor of Medicine** [*Sep 2008 -- Nov 2015*]{.cvdate} <br> *Damascus University*, Damascus, Syria
 
 ## Work Experience/Postgraduate Training
 
