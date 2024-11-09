@@ -5,6 +5,7 @@ format:
     toc: true
     grid: 
       margin-width: 400px
+encoding: UTF-8
 ---
 
 ## Education
@@ -14,13 +15,13 @@ format:
 **Doctor of Philosophy -- Biomedical Sciences** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2019 -- March 2025*]{.cvdate}
 
 -   **Thesis title**: Understanding Therapeutic Outcomes in Inflammatory Bowel Diseases: Insights from Clinicomics, Proteomics, and Transcriptomics.
--   Pomotor: [prof.dr.Séverine Vermeire](https://www.uzleuven.be/en/physicians-and-specialists/severine-vermeire) ; Co-promotor: [prof.dr.Bram Verstockt](https://www.uzleuven.be/nl/artsen-en-specialisten/bram-verstockt)
+-   Pomotor: [Prof.Dr. Severine Vermeire](https://www.uzleuven.be/en/physicians-and-specialists/severine-vermeire) ; Co-promotor: [Prof.Dr. Bram Verstockt](https://www.uzleuven.be/nl/artsen-en-specialisten/bram-verstockt)
 -   Defense date: **March 2025**
 
 **Master of Science -- Health Care Management and Policy** <br> *Katholieke Universiteit Leuven*, Leuven, Belgium [*Sep 2020 -- Sep 2024*]{.cvdate}
 
 -   Major in "Health Care Management"
--   Thesis promotor: [prof.dr.Luk Bruyneel](https://scholar.google.be/citations?user=DyPnL94AAAAJ&hl=nl)
+-   Thesis promotor: [Prof.Dr. Luk Bruyneel](https://scholar.google.be/citations?user=DyPnL94AAAAJ&hl=nl)
 
 **Doctor of Medicine** <br> *Damascus University*, Damascus, Syria [*Sep 2008 -- Nov 2015*]{.cvdate}
 
@@ -34,9 +35,9 @@ Main objectives:
 -   Identify proteomic signatures able to predict endoscopic outcome to biologic therapy in ***Crohn's disease***.\
 -   Gain insights into the mechanisms of action of current therapies for ***ulcerative colitis*** using whole blood transcriptomics, and identify transcriptomic signatures able to predict their endoscopic outcome.\
 
-**Hospitalist Physician** [*Sep 2018 -- Aug 2019*]{.cvdate} <br> Diabetes clinic - University Hospitals Brussels
+**Hospitalist Physician** [*Sep 2018 -- Aug 2019*]{.cvdate} <br> Diabetes clinic - University Hospitals Brussels, Brussels, Belgium
 
-**Resident -- Clinical Pathology** [*Sep 2017 -- Aug 2018*]{.cvdate} <br> University Hospitals Brussels
+**Resident -- Clinical Pathology** [*Sep 2017 -- Aug 2018*]{.cvdate} <br> University Hospitals Brussels, Brussels, Begium
 
 ## Scholarly Contributions
 
@@ -45,7 +46,7 @@ Main objectives:
 
 ## Software
 
--   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>1593 downloads on September 13, 2024</small></mark>
+-   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>1852 downloads on November 09, 2024</small></mark>
 
 ## Computational Biology Skills
 
