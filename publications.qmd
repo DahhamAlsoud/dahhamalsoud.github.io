@@ -12,7 +12,7 @@ format:
 -   Utility of the serum-based Endoscopic Healing Index in monitoring therapeutic response in ulcerative colitis.\
     [*The American Journal of Gastroenterology*]{style="color:Chocolate"} [*PMID: 37753938*](https://pubmed.ncbi.nlm.nih.gov/37753938/){style="color:SteelBlue"}
 -   Calibration, clinical utility and specificity of clinical decision support tools in inflammatory bowel disease.\
-    [*Clinical Gastroenterology and Hepatology*]{style="color:Chocolate"} [*Analysis notebook*](./analysis-notebooks/report-cdst-evaluation-leuven.html){style="color:DarkViolet"}
+    [*Clinical Gastroenterology and Hepatology*]{style="color:Chocolate"} [*PMID: 39461468*](https://pubmed.ncbi.nlm.nih.gov/39461468/){style="color:SteelBlue"} [*Analysis notebook*](./analysis-notebooks/report-cdst-evaluation-leuven_not-hidden.html){style="color:DarkViolet"}
 -   Real-world endoscopic and histological outcomes are correlated with ustekinumab exposure in patients with ulcerative colitis.\
     [*Journal of Crohn's and Colitis*]{style="color:Chocolate"} [*PMID: 3533353*](https://pubmed.ncbi.nlm.nih.gov/35533353/){style="color:SteelBlue"}
 -   Real-world effectiveness and safety of risankizumab in patients with moderate-to-severe multi-refractory Crohn's disease: a Belgian multi-centric cohort study.\
