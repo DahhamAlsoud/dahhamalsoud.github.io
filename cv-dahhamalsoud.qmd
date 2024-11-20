@@ -37,7 +37,7 @@ Main objectives:
 
 **Hospitalist Physician** [*Sep 2018 -- Aug 2019*]{.cvdate} <br> Diabetes clinic - University Hospitals Brussels, Brussels, Belgium
 
-**Resident -- Clinical Pathology** [*Sep 2017 -- Aug 2018*]{.cvdate} <br> University Hospitals Brussels, Brussels, Begium
+**Resident -- Clinical Pathology** [*Sep 2017 -- Aug 2018*]{.cvdate} <br> University Hospitals Brussels, Brussels, Belgium
 
 ## Scholarly Contributions
 
@@ -46,7 +46,9 @@ Main objectives:
 
 ## Software
 
--   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>1852 downloads on November 09, 2024</small></mark>
+- [Leuven update for Clinical Decision Support Tools to predict the therapeutic success of Vedolizumab in patients with Inflammatory Bowel Disease](https://dahham-alsoud.shinyapps.io/vdz-cdst-leuven-shiny/)
+
+-   R packages: [phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)<br><mark><small>1892 downloads on November 20, 2024</small></mark>
 
 ## Computational Biology Skills
 
