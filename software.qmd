@@ -1,0 +1,10 @@
+---
+title: "Software"
+format:
+  html:
+    toc: false
+---
+
+[Leuven update for Clinical Decision Support Tools to predict the therapeutic success of Vedolizumab in patients with Inflammatory Bowel Disease](https://dahham-alsoud.shinyapps.io/vdz-cdst-leuven-shiny/)
+
+[phdcocktail](https://dahhamalsoud.github.io/phdcocktail/index.html)

@@ -82,5 +82,19 @@
     "title": "Curriculum Vitae",
     "section": "Computational Biology Skills",
     "text": "Computational Biology Skills\n\nScripting: R, Python, and Unix for data manipulation, visualization, and predictive/bioinformatic analyses.\nBioinformatic algorithms and packages: proteomics, bulk and single-cell transcriptomics, spatial transcriptomics, metagenomics, metabolomics and multi-omics integration.\nQuarto Publishing: articles, presentations, dashboards, and websites.\nPackage Development: R, Python, and Bioconductor.\nWeb Applications Development: using Shiny, with basic knowledge of HTML, CSS, and JavaScript."
+  },
+  {
+    "objectID": "software.html#phdcocktail",
+    "href": "software.html#phdcocktail",
+    "title": "Software",
+    "section": "phdcocktail",
+    "text": "phdcocktail"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Leuven update for Clinical Decision Support Tools to predict the therapeutic success of Vedolizumab in patients with Inflammatory Bowel Disease\nphdcocktail"
   }
 ]
