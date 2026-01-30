@@ -9,7 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - href: publications.qmd
-      - href: cv-dahhamalsoud.qmd
       - href: software.qmd
 
 format:
