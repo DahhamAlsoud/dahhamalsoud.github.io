@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "dahhamalsoud.github.io",
+    "title": "Dahham Alsoud",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there!\n\nI’m Dahham, an instructor and postdoctoral researcher at Stanford University School of Medicine focusing on inflammatory bowel disease. My current work investigates molecular and clinical determinants of biologic therapy outcomes using longitudinal real-world data. Through this research, I aim to reduce trial-and-error treatment approaches and strengthen evidence-based clinical decision-making, ultimately improving outcomes and quality of life for individuals living with IBD."
   },
   {
     "objectID": "about.html",
@@ -96,5 +96,12 @@
     "title": "Software",
     "section": "",
     "text": "Leuven update for Clinical Decision Support Tools to predict the therapeutic success of Vedolizumab in patients with Inflammatory Bowel Disease\nphdcocktail"
+  },
+  {
+    "objectID": "index.html#im-dahham-an-instructor-and-postdoctoral-researcher-at-stanford-university-school-of-medicine-focusing-on-inflammatory-bowel-disease.-my-current-work-investigates-molecular-and-clinical-determinants-of-biologic-therapy-outcomes-using-longitudinal-real-world-data.-through-this-research-i-aim-to-reduce-trial-and-error-treatment-approaches-and-strengthen-evidence-based-clinical-decision-making-ultimately-improving-outcomes-and-quality-of-life-for-individuals-living-with-ibd.",
+    "href": "index.html#im-dahham-an-instructor-and-postdoctoral-researcher-at-stanford-university-school-of-medicine-focusing-on-inflammatory-bowel-disease.-my-current-work-investigates-molecular-and-clinical-determinants-of-biologic-therapy-outcomes-using-longitudinal-real-world-data.-through-this-research-i-aim-to-reduce-trial-and-error-treatment-approaches-and-strengthen-evidence-based-clinical-decision-making-ultimately-improving-outcomes-and-quality-of-life-for-individuals-living-with-ibd.",
+    "title": "Dahham Alsoud",
+    "section": "I’m Dahham, an instructor and postdoctoral researcher at Stanford University School of Medicine focusing on inflammatory bowel disease. My current work investigates molecular and clinical determinants of biologic therapy outcomes using longitudinal real-world data. Through this research, I aim to reduce trial-and-error treatment approaches and strengthen evidence-based clinical decision-making, ultimately improving outcomes and quality of life for individuals living with IBD.",
+    "text": "I’m Dahham, an instructor and postdoctoral researcher at Stanford University School of Medicine focusing on inflammatory bowel disease. My current work investigates molecular and clinical determinants of biologic therapy outcomes using longitudinal real-world data. Through this research, I aim to reduce trial-and-error treatment approaches and strengthen evidence-based clinical decision-making, ultimately improving outcomes and quality of life for individuals living with IBD."
   }
 ]

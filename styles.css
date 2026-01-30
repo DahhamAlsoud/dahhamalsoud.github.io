@@ -86,4 +86,8 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
     font-weight: 700;
     color: #36a7e9;
   }
+  
+  p {
+  text-align: justify
+}
 }
